@@ -1,0 +1,11 @@
+fastapi
+langgraph
+langchain-anthropic
+langchain-community
+httpx
+redis
+python-dotenv
+pydantic
+tavily-python
+uvicorn[standard]
+grandalf
